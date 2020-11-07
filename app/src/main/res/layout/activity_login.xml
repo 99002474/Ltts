@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/background"
+android:padding="30dp"
+tools:context=".LoginActivity">
+
+<TextView
+    android:id="@+id/textview2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="40dp"
+    android:text="@string/login"
+    android:textColor="#eb9834"
+    android:textSize="28sp"
+    android:textStyle="bold" />
+
+<EditText
+    android:id="@+id/username1"
+    android:layout_width="wrap_content"
+    android:layout_height="50dp"
+    android:drawableLeft="@drawable/username"
+    android:hint="@string/user_email_id"
+    android:inputType="textEmailAddress"
+    android:layout_marginTop="40dp"
+    android:layout_below="@+id/textview2"/>
+
+<EditText
+    android:id="@+id/password1"
+    android:layout_width="wrap_content"
+    android:layout_height="50dp"
+    android:drawableLeft="@drawable/password"
+    android:hint="@string/password"
+    android:inputType="textPassword"
+    android:layout_marginTop="40dp"
+    android:layout_below="@+id/username1"/>
+
+<Button
+    android:id="@+id/btnsignin1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/sign_in"
+    android:layout_marginTop="40dp"
+    android:layout_below="@+id/password1"/>
+
+</RelativeLayout>

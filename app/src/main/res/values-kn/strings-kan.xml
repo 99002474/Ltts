@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ltts</string>
+    <string name="login">ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="user_email_id">ಬಳಕೆದಾರ ಇಮೇಲ್ ಐಡಿ</string>
+    <string name="password">ಪಾಸ್ವರ್ಡ್ </string>
+    <string name="sign_in">ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="confirm_password">ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="register">ನೋಂದಣಿ</string>
+    <string name="existing_user_go_to_sign_in_pages">ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಬಳಕೆದಾರ! ಸೈನ್ ಇನ್ ಪುಟಗಳಿಗೆ ಹೋಗಿ</string>
+    <string name="welcome">ಸ್ವಾಗತ</string>
+    <string name="list_of_all_events_conducted">ಎಲ್ಲಾ ಘಟನೆಗಳ ಪಟ್ಟಿ</string>
+    <string name="glimpse_of_event">ಘಟನೆಯ ನೋಟ</string>
+    <string name="about_event">ಈವೆಂಟ್ ಬಗ್ಗೆ</string>
+    <string name="winners_of_the_event">ಈವೆಂಟ್‌ನ ವಿಜೇತರು</string>
+    <string name="mysuru_dussehra">ಮೈಸೂರು ದಸರಾ</string>
+    <string name="play_video">ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಿ</string>
+    <string-array name="Winners_List">
+        <item>ಹಾಡುವುದು (ಪುರುಷ ಆವೃತ್ತಿ)</item>
+        <item>ಹಾಡುವುದು (ಸ್ತ್ರೀ ಆವೃತ್ತಿ)</item>
+        <item>ನೃತ್ಯ</item>
+        <item>ಸ್ಕೆಚಿಂಗ್</item>
+        <item>ವಿಶೇಷ ಪ್ರವೇಶ</item>
+        <item>ಗ್ರಾಫಿಕ್ ಡಿಸೈನಿಂಗ್</item>
+        <item>ಛಾಯಾಗ್ರಹಣ</item>
+        <item>ಕರಕುಶಲ ಕೆಲಸ</item>
+        <item>ಕವನ</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>ಇವರಿಂದ: ಎಸ್ ಸಾಯಿ ಮಾಧನ್</item>
+        <item>ಇವರಿಂದ: ಬಾಲಾ ಸಿರಿಶಾ ಎಸ್ ಪಿ</item>
+        <item>ಇವರಿಂದ: ಎಂ ಆರ್ ಲಕ್ಷ್ಮಿ ಪ್ರಿಯಾ</item>
+        <item>ಇವರಿಂದ: ಎಸ್ ಬಹೀರಡಾನ್</item>
+        <item>ಇವರಿಂದ: ನಿತ್ಯ ಪಿ</item>
+        <item>ಇವರಿಂದ: ಯಶ್ ರಾಜ್</item>
+        <item>ಇವರಿಂದ: ದೀಕ್ಷಾ ಪಿ</item>
+        <item>ಇವರಿಂದ: ದಿವ್ಯಾ ಪಿ</item>
+        <item>ಇವರಿಂದ: ಹೃತಿಕ್ ಹಿರಾನ್</item>
+    </string-array>
+</resources>

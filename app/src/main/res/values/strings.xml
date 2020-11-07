@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Ltts</string>
+    <string name="login">Login</string>
+    <string name="user_email_id">User Email id</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="existing_user_go_to_sign_in_pages">Existing User! Go to Sign in Pages</string>
+    <string name="welcome">Welcome</string>
+    <string name="list_of_all_events_conducted">LIST OF ALL EVENTS CONDUCTED</string>
+    <string name="glimpse_of_event">Glimpse of event</string>
+    <string name="about_event">About event</string>
+    <string name="winners_of_the_event">Winners of the event</string>
+    <string name="mysuru_dussehra">Mysuru Dussehra</string>
+    <string name="play_video">Play Video</string>
+    <string-array name="Winners_List">
+        <item>Singing (Male version)</item>
+        <item>Singing (Female version)</item>
+        <item>Dancing</item>
+        <item>Sketching</item>
+        <item>Special Entry</item>
+        <item>Graphic Designing</item>
+        <item>Photography</item>
+        <item>Craft Work</item>
+        <item>Poetry</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>By : S Sai Madhan</item>
+        <item>By : Bala Sirisha S P</item>
+        <item>By : M R Lakshmi Priya</item>
+        <item>By : S Bahieradan</item>
+        <item>By : Nithya P</item>
+        <item>By : Yash Raj</item>
+        <item>By : Deeksha P</item>
+        <item>By : Divya P</item>
+        <item>By : Hrithik Hiran</item>
+    </string-array>
+</resources>
