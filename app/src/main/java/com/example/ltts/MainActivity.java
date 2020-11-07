@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    public static String TAG = MainActivity.class.getSimpleName();
     EditText username, password, cfpassword;
     Button signup, signin;
     DBHelper  DB;
